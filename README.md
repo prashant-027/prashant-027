@@ -6,7 +6,8 @@
 <li>🔭 I’m currently working on "AlgoPedia".</li>
 <li>🌱 I’m currently learning Flutter.</li>
 <li>👯 I’m looking to collaborate on Application Development Projects.</li>
-<li>📫 How to reach me: prasprashant.sin2712@gmail.com</li>
+<li>📫 How to reach me: prashant.sin2712@gmail.com</li>
+<li>💻 Portfolio: https://prashantportfolio.dorik.io/</li>
 </ul>
 
 
