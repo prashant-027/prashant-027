@@ -22,15 +22,5 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 
 
-<h1 align="center">Hi, I'm Prashant Singh <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height='30px'></h1>
-<p align='center'>
-I'm Prashant Singh.
-</p>
-<p align='center'>For enquiries, reach out on <a href="https://www.linkedin.com/in/prashant-singh27">LinkedIn</a>.</p>
-<p align='center'>Or reach out on <a href="https://twitter.com/_prashant27?t=z9qE22ig9Tf3VEo8mzihfA&s=09">Twitter</a>.</p>
-<p align='center'>Or reach out on <a href="https://instagram.com/prashant._27">Instagram</a>.</p>
-<p align='center'>Or reach out on <a href="https://github.com/prashant-027">GitHub</a>.</p>
-
-<h1 align='center'><i>Stay awesome!</i></h1>
 
 
